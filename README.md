@@ -65,7 +65,7 @@ They usually focus on questions such as:
 
 | Month     | Title                                      | Theme                                                                      | PDF                                                                              | Website          |
 | --------- | ------------------------------------------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------- |
-| June 2026 | When the report still needs a second check | ERP/MRP, inventory, fulfilment, Excel workarounds and reporting confidence | `` |https://www.straightlinedata.co.uk/post/straightline-insight-note |
+| June 2026 | When the report still needs a second check | ERP/MRP, inventory, fulfilment, Excel workarounds and reporting confidence | `The StraightLine Insight Note-June.pdf` |https://www.straightlinedata.co.uk/post/straightline-insight-note |
 | July 2026 | Why different reports tell different versions of the same story | ERP/MRP, inventory, fulfilment, Excel workarounds and different versions of value | `` |https://www.straightlinedata.co.uk/post/straightline-insight-note-1 |
 | Aug  2026 | Where the report headline looks reasonable but the details tells a different story | ERP/MRP, inventory, fulfilment, Excel workarounds and uncovering the next action | `` | https://www.straightlinedata.co.uk/post/the-straightline-insight-note-august-2026|
 
