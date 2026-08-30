@@ -65,7 +65,10 @@ They usually focus on questions such as:
 
 | Month     | Title                                      | Theme                                                                      | PDF                                                                              | Website          |
 | --------- | ------------------------------------------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------- |
-| June 2026 | When the report still needs a second check | ERP/MRP, inventory, fulfilment, Excel workarounds and reporting confidence | `2026-06-reporting-clarity-second-check/StraightLine-Insight-Note-June-2026.pdf` | Add website link |
+| June 2026 | When the report still needs a second check | ERP/MRP, inventory, fulfilment, Excel workarounds and reporting confidence | `` |https://www.straightlinedata.co.uk/post/straightline-insight-note |
+| July 2026 | Why different reports tell different versions of the same story | ERP/MRP, inventory, fulfilment, Excel workarounds and different versions of value | `` |https://www.straightlinedata.co.uk/post/straightline-insight-note-1 |
+| Aug  2026 | Where the report headline looks reasonable but the details tells a different story | ERP/MRP, inventory, fulfilment, Excel workarounds and uncovering the next action | `` | https://www.straightlinedata.co.uk/post/the-straightline-insight-note-august-2026|
+
 
 ---
 
@@ -110,10 +113,10 @@ Related June proof assets include:
 
 | Proof asset                          | Business question                                                                                    | Platform                 |
 | ------------------------------------ | ---------------------------------------------------------------------------------------------------- | ------------------------ |
-| Order Fulfilment                     | Does order status tell enough of the commercial story, or does payment evidence change the question? | Add GitHub / Kaggle link |
-| Inventory Confidence                 | When the headline stock movement almost reconciles, which product/location checks still need review? | Add GitHub / Kaggle link |
-| ERP versus Excel / warehouse reality | Does the ERP show stock that exists, or stock the business can safely act on?                        | Add GitHub / Kaggle link |
-| Improved Inventory Management        | Does better fulfilment data make cancellation risk easier to investigate?                            | Add GitHub / Kaggle link |
+| Order Fulfilment                     | Does order status tell enough of the commercial story, or does payment evidence change the question? | |
+| Inventory Confidence                 | When the headline stock movement almost reconciles, which product/location checks still need review? |  |
+| ERP versus Excel / warehouse reality | Does the ERP show stock that exists, or stock the business can safely act on?                        |  |
+| Improved Inventory Management        | Does better fulfilment data make cancellation risk easier to investigate?                            |  |
 
 ---
 
