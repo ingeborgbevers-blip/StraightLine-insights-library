@@ -66,8 +66,8 @@ They usually focus on questions such as:
 | Month     | Title                                      | Theme                                                                      | PDF                                                                              | Website          |
 | --------- | ------------------------------------------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------- |
 | June 2026 | When the report still needs a second check | ERP/MRP, inventory, fulfilment, Excel workarounds and reporting confidence | `The StraightLine Insight Note-June.pdf` |https://www.straightlinedata.co.uk/post/straightline-insight-note |
-| July 2026 | Why different reports tell different versions of the same story | ERP/MRP, inventory, fulfilment, Excel workarounds and different versions of value | `` |https://www.straightlinedata.co.uk/post/straightline-insight-note-1 |
-| Aug  2026 | Where the report headline looks reasonable but the details tells a different story | ERP/MRP, inventory, fulfilment, Excel workarounds and uncovering the next action | `` | https://www.straightlinedata.co.uk/post/the-straightline-insight-note-august-2026|
+| July 2026 | From reporting trust to cash confidence | ERP/MRP, inventory, fulfilment, Excel workarounds and different versions of value | `` |https://www.straightlinedata.co.uk/post/straightline-insight-note-1 |
+| Aug  2026 | Where the report stops being trusted | ERP/MRP, inventory, fulfilment, Excel workarounds and uncovering the next action | `` | https://www.straightlinedata.co.uk/post/the-straightline-insight-note-august-2026|
 
 
 ---
@@ -104,19 +104,52 @@ The June note asks one practical question:
 That question can reveal where reporting confidence is being lost: definitions, timing, exceptions, stock status, order status, Excel workarounds, warehouse reality, payment evidence, or unclear assumptions.
 
 ---
+## July 2026 Insight Note 
 
-## Related Proof Assets
+### From Reporting Trust to Cash Confidence
 
-The Monthly Insight Notes are supported by practical case studies and portfolio projects.
+July examines the point where technically valid financial and operational figures can still create uncertain decisions because different measures represent different stages of the business process.
 
-Related June proof assets include:
+The note connects four reporting questions:
 
-| Proof asset                          | Business question                                                                                    | Platform                 |
-| ------------------------------------ | ---------------------------------------------------------------------------------------------------- | ------------------------ |
-| Order Fulfilment                     | Does order status tell enough of the commercial story, or does payment evidence change the question? | |
-| Inventory Confidence                 | When the headline stock movement almost reconciles, which product/location checks still need review? |  |
-| ERP versus Excel / warehouse reality | Does the ERP show stock that exists, or stock the business can safely act on?                        |  |
-| Improved Inventory Management        | Does better fulfilment data make cancellation risk easier to investigate?                            |  |
+* the difference between sales, invoiced value and cash received;
+* stock value and working-capital exposure;
+* margin leakage hidden inside operational detail;
+* finance and operations using different definitions of the same headline figure.
+
+The central issue is not necessarily inaccurate reporting. It is whether people understand what a figure includes, what it excludes, when it becomes complete and which decision it can safely support.
+
+The practical message for SMEs is to choose one commercially important headline figure and document its definition, timing, exclusions and intended decision before adding further reporting.
+
+**Key question:**
+*Which headline figure in your business changes meaning depending on who is looking at it?*
+
+---
+
+## August 2026 Insight Note
+
+### Where the Report Stops Being Trusted
+
+August moves below apparently reasonable headline figures and asks what the detail underneath is trying to show.
+
+The note draws together three StraightLine case studies:
+
+* a revenue and cost report where differences below 0.3% still represented material unexplained values;
+* a receivables analysis where an acceptable average settlement time concealed repeated customer-specific lateness and disputes;
+* an operational order report where historic delivery KPIs described performance but did not fully expose ageing, inactivity and emerging risk.
+
+Across all three examples, the headline was not obviously wrong. It was incomplete for the decision being made.
+
+The note introduces three useful reporting-confidence tests:
+
+* **Traceability** — can the headline be followed back to the transactions and rules that created it?
+* **Context** — can the reader see whether the issue is repeated, concentrated or exceptional?
+* **Actionability** — does the report show what needs investigating or changing next?
+
+For SMEs, the practical starting point is not necessarily a dashboard rebuild. It may be one report, one business question and one recurring manual check.
+
+**Key question:**
+*Which report in your business looks reasonable at headline level, but still sends people somewhere else before they are willing to act?*
 
 ---
 
