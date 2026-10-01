@@ -68,6 +68,7 @@ They usually focus on questions such as:
 | June 2026 | When the report still needs a second check | ERP/MRP, inventory, fulfilment, Excel workarounds and reporting confidence | `The StraightLine Insight Note-June.pdf` |https://www.straightlinedata.co.uk/post/straightline-insight-note |
 | July 2026 | From reporting trust to cash confidence | ERP/MRP, inventory, fulfilment, Excel workarounds and different versions of value | `` |https://www.straightlinedata.co.uk/post/straightline-insight-note-1 |
 | Aug  2026 | Where the report stops being trusted | ERP/MRP, inventory, fulfilment, Excel workarounds and uncovering the next action | `` | https://www.straightlinedata.co.uk/post/the-straightline-insight-note-august-2026|
+| Sep  2026 | Where two versions of reality begin to diverge | ERP/MRP, inventory, fulfilment, Excel workarounds and uncovering the next action | `` | [https://www.straightlinedata.co.uk/post/straightline-insight-note-september-2026|
 
 
 ---
@@ -150,6 +151,35 @@ For SMEs, the practical starting point is not necessarily a dashboard rebuild. I
 
 **Key question:**
 *Which report in your business looks reasonable at headline level, but still sends people somewhere else before they are willing to act?*
+
+---
+
+## September 2026 Insight Note
+
+### When the System Says One Thing and the Operation Says Another
+
+September focuses on the point where system data, reporting logic and operational reality stop fully agreeing.
+
+The note brings together September’s StraightLine posts and inventory / stock-variance work, including:
+
+* manual checks that reveal where reporting confidence begins to weaken;
+* spreadsheets and workarounds that may be compensating for missing context or exceptions;
+* stock differences where timing, process and physical reality need separating before a variance can be understood;
+* Finance and Operations using reasonable numbers that still do not mean quite the same thing;
+* automation that can make reporting faster without resolving disagreement underneath it.
+
+The September inventory work showed why not every discrepancy should be treated in the same way. Some differences may be expected or explainable through timing and process. Others need evidence and further investigation. 
+
+The practical distinction is between:
+
+* **Expected** — differences that follow known process or timing behaviour;
+* **Explainable** — differences that can be traced to a clear cause;
+* **Needs attention** — exceptions that remain unexplained or carry operational risk.
+
+For SMEs, the starting point does not have to be a new system or dashboard rebuild. It may be one report, one recurring manual check, or one disagreement between what the system records and what people see in practice.
+
+**Key question:**  
+*Where does your system say one thing while the people doing the work see something else — and how do you decide which difference matters?*
 
 ---
 
