@@ -1,94 +1,48 @@
-# StraightLine Insights Library
+# StraightLine Insight Notes
 
-## Overview
+A monthly library of practical observations from **StraightLine Data & Training**.
 
-This repository is the public archive for the **StraightLine Data & Training Monthly Insight Notes**.
+The Insight Notes bring together case-study work, reporting analysis and recurring operational themes to examine one useful business question each month.
 
-The Monthly Insight Notes are business-facing reflections built from practical data analysis, reporting, ERP/MRP, inventory, finance, and operational case studies. They are designed to connect analytical proof with real business questions.
+The aim is not to produce more reporting.
 
-The purpose of this repository is not to replace the main StraightLine website. The website remains the primary home for published articles and business information.
-
-This repository acts as a structured proof library: a place to organise monthly themes, downloadable PDFs, related case studies, and the analytical work that supports the wider StraightLine content system.
+It is to make existing data, systems and reports easier to **understand, trust and act on**.
 
 ---
 
-## About StraightLine Data & Training
+## Insight Note Library
 
-**StraightLine Data & Training** helps SMEs turn messy operational data, ERP outputs, Excel checks, and reporting uncertainty into clearer decisions, practical dashboards, and more confident system use.
-
-The work focuses on situations where a business already has data, systems, reports, spreadsheets, or dashboards, but still does not fully trust what the numbers are saying or what decision should follow.
-
-Core areas include:
-
-* data analysis and decision support;
-* Power BI dashboards and reporting views;
-* SQL-based reporting;
-* ERP and MRP reporting clarity;
-* SAP Business One reporting support;
-* stock, inventory, order, fulfilment and warehouse reporting;
-* Excel workaround review;
-* training and user enablement.
-
-The aim is simple: to help businesses move from available data to decision-ready reporting.
+| Month | Insight Note | Main theme |
+| --- | --- | --- |
+| [June 2026](https://github.com/ingeborgbevers-blip/StraightLine-insights-library/blob/2026-06-reporting-clarity-second-check/The%20StraightLine%20Insight%20Note-June.pdf) | When the report still needs a second check | Reporting clarity and manual checks |
+| [July 2026](https://github.com/ingeborgbevers-blip/StraightLine-insights-library/blob/2026-07-reporting-clarity-versions-of-value/StraightLine%20Insight%20Note%20July%202026.pdf) | Versions of value | Reporting clarity, definitions and value |
+| [August 2026](https://github.com/ingeborgbevers-blip/StraightLine-insights-library/blob/2026-08-reporting-clarity-what-needs-to-be-done-next/StraightLine%20Insight%20Note%20August%2026.pdf) | Where the report stops being trusted | Traceability, context and actionability |
+| [September 2026](https://github.com/ingeborgbevers-blip/StraightLine-insights-library/blob/2026-09-reporting-clarity-versions-of-reality-diverge/StraightLine%20Insight%20Note%20September%2026.pdf) | When the system says one thing and the operation says another | System data versus operational reality |
+| [October 2026](https://github.com/ingeborgbevers-blip/StraightLine-insights-library/blob/2026-10-reporting-clarity-from-the-figure-to-the-next-action/StraightLine%20Insight%20Note%20October%202026.pdf) | From the figure to the next action | Reporting, working practices and staff understanding |
 
 ---
 
-## What the Monthly Insight Notes Are
-
-Each Monthly Insight Note takes a recurring business theme and draws together practical lessons from recent StraightLine proof work.
-
-The notes are written for:
-
-* SME owners and directors;
-* operations managers;
-* finance managers;
-* warehouse and inventory leads;
-* purchasing teams;
-* ERP/MRP users;
-* business advisors and referrers;
-* anyone responsible for turning operational reporting into useful decisions.
-
-The notes are not technical tutorials. They are designed to make business reporting issues easier to recognise, explain, and review.
-
-They usually focus on questions such as:
-
-* Can people trust this report enough to make a decision from it?
-* What does the report include and exclude?
-* Where does Excel take over from the ERP?
-* Which manual checks still happen before people trust the number?
-* Are the system view and operational reality telling the same story?
-* What decision is this report actually meant to support?
-
----
-
-## Current Insight Notes
-
-| Month     | Title                                      | Theme                                                                      | PDF                                                                              | Website          |
-| --------- | ------------------------------------------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------- |
-| June 2026 | When the report still needs a second check | ERP/MRP, inventory, fulfilment, Excel workarounds and reporting confidence | `The StraightLine Insight Note-June.pdf` |https://www.straightlinedata.co.uk/post/straightline-insight-note |
-| July 2026 | From reporting trust to cash confidence | ERP/MRP, inventory, fulfilment, Excel workarounds and different versions of value | `` |https://www.straightlinedata.co.uk/post/straightline-insight-note-1 |
-| Aug  2026 | Where the report stops being trusted | ERP/MRP, inventory, fulfilment, Excel workarounds and uncovering the next action | `` | https://www.straightlinedata.co.uk/post/the-straightline-insight-note-august-2026|
-| Sep  2026 | Where two versions of reality begin to diverge | ERP/MRP, inventory, fulfilment, Excel workarounds and uncovering the next action | `` | [https://www.straightlinedata.co.uk/post/straightline-insight-note-september-2026|
-
-
----
-
-## June 2026 Insight Note
+## June 2026
 
 ### When the report still needs a second check
 
-The June 2026 Insight Note draws from four StraightLine proof pieces:
+[**Read the June 2026 Insight Note →**](https://github.com/ingeborgbevers-blip/StraightLine-insights-library/blob/2026-06-reporting-clarity-second-check/The%20StraightLine%20Insight%20Note-June.pdf)
 
-* Order Fulfilment
-* Inventory Confidence
-* ERP versus Excel / warehouse reality
-* Improved Inventory Management
+June looked at a recurring reporting problem:
 
-The common theme was reporting clarity.
+The business has data.  
+The report gives an answer.  
+The answer may not be wrong.  
+But somebody still needs more context before they are prepared to act.
 
-Most businesses do not have a reporting problem because they lack data. They have a reporting clarity problem because the data they already have is not always clear enough to trust, explain, or act on.
+The note draws from four StraightLine proof pieces:
 
-Across the June work, the same pattern appeared:
+- Order Fulfilment
+- Inventory Confidence
+- ERP versus Excel / warehouse reality
+- Improved Inventory Management
+
+Across the work, the same pattern appeared:
 
 1. The business has data.
 2. The report gives an answer.
@@ -98,154 +52,245 @@ Across the June work, the same pattern appeared:
 6. The workaround becomes normal.
 7. The real reporting gap becomes harder to see.
 
-The June note asks one practical question:
+The practical starting point is often the action somebody takes **after** receiving the report.
+
+Do they export it to Excel?
+
+Check another system?
+
+Reconcile a few transactions?
+
+Ask the experienced colleague who knows which numbers to question?
+
+Those behaviours can reveal where reporting confidence begins to weaken.
+
+**Key question**
 
 > What does someone still check before they trust this report?
 
-That question can reveal where reporting confidence is being lost: definitions, timing, exceptions, stock status, order status, Excel workarounds, warehouse reality, payment evidence, or unclear assumptions.
+### Related proof assets
 
----
-## July 2026 Insight Note 
-
-### From Reporting Trust to Cash Confidence
-
-July examines the point where technically valid financial and operational figures can still create uncertain decisions because different measures represent different stages of the business process.
-
-The note connects four reporting questions:
-
-* the difference between sales, invoiced value and cash received;
-* stock value and working-capital exposure;
-* margin leakage hidden inside operational detail;
-* finance and operations using different definitions of the same headline figure.
-
-The central issue is not necessarily inaccurate reporting. It is whether people understand what a figure includes, what it excludes, when it becomes complete and which decision it can safely support.
-
-The practical message for SMEs is to choose one commercially important headline figure and document its definition, timing, exclusions and intended decision before adding further reporting.
-
-**Key question:**
-*Which headline figure in your business changes meaning depending on who is looking at it?*
+| Proof asset | Business question |
+| --- | --- |
+| Order Fulfilment | Does order status tell enough of the commercial story, or does payment evidence change the question? |
+| Inventory Confidence | When headline stock movement almost reconciles, which product or location checks still need review? |
+| ERP versus Excel / warehouse reality | Does the ERP show stock that exists, or stock the business can safely act on? |
+| Improved Inventory Management | Does better fulfilment data make cancellation risk easier to investigate? |
 
 ---
 
-## August 2026 Insight Note
+## July 2026
 
-### Where the Report Stops Being Trusted
+### Versions of value
 
-August moves below apparently reasonable headline figures and asks what the detail underneath is trying to show.
+[**Read the July 2026 Insight Note →**](https://github.com/ingeborgbevers-blip/StraightLine-insights-library/blob/2026-07-reporting-clarity-versions-of-value/StraightLine%20Insight%20Note%20July%202026.pdf)
 
-The note draws together three StraightLine case studies:
+July continued the reporting-clarity theme by looking at the importance of definitions, timing and purpose when interpreting apparently sound financial and operational figures.
 
-* a revenue and cost report where differences below 0.3% still represented material unexplained values;
-* a receivables analysis where an acceptable average settlement time concealed repeated customer-specific lateness and disputes;
-* an operational order report where historic delivery KPIs described performance but did not fully expose ageing, inactivity and emerging risk.
+A number can be correct within one reporting context and still mean something different somewhere else in the business.
 
-Across all three examples, the headline was not obviously wrong. It was incomplete for the decision being made.
+The useful question is therefore not only:
 
-The note introduces three useful reporting-confidence tests:
+> Is the number correct?
 
-* **Traceability** — can the headline be followed back to the transactions and rules that created it?
-* **Context** — can the reader see whether the issue is repeated, concentrated or exceptional?
-* **Actionability** — does the report show what needs investigating or changing next?
+It is also:
 
-For SMEs, the practical starting point is not necessarily a dashboard rebuild. It may be one report, one business question and one recurring manual check.
-
-**Key question:**
-*Which report in your business looks reasonable at headline level, but still sends people somewhere else before they are willing to act?*
+> What exactly does this number represent, and is everybody using it to answer the same question?
 
 ---
 
-## September 2026 Insight Note
+## August 2026
 
-### When the System Says One Thing and the Operation Says Another
+### Where the report stops being trusted
 
-September focuses on the point where system data, reporting logic and operational reality stop fully agreeing.
+[**Read the August 2026 Insight Note →**](https://github.com/ingeborgbevers-blip/StraightLine-insights-library/blob/2026-08-reporting-clarity-what-needs-to-be-done-next/StraightLine%20Insight%20Note%20August%2026.pdf)
 
-The note brings together September’s StraightLine posts and inventory / stock-variance work, including:
+August moved below apparently reasonable headline figures and asked what the detail underneath was trying to show.
 
-* manual checks that reveal where reporting confidence begins to weaken;
-* spreadsheets and workarounds that may be compensating for missing context or exceptions;
-* stock differences where timing, process and physical reality need separating before a variance can be understood;
-* Finance and Operations using reasonable numbers that still do not mean quite the same thing;
-* automation that can make reporting faster without resolving disagreement underneath it.
+The note brought together three StraightLine case studies:
 
-The September inventory work showed why not every discrepancy should be treated in the same way. Some differences may be expected or explainable through timing and process. Others need evidence and further investigation. 
+- a revenue and cost report where differences below 0.3% still represented material unexplained values;
+- a receivables analysis where an acceptable average settlement time concealed repeated customer-specific lateness and disputes;
+- an operational order report where historic delivery KPIs described performance but did not fully expose ageing, inactivity and emerging risk.
 
-The practical distinction is between:
+Across all three examples, the headline was not obviously wrong.
 
-* **Expected** — differences that follow known process or timing behaviour;
-* **Explainable** — differences that can be traced to a clear cause;
-* **Needs attention** — exceptions that remain unexplained or carry operational risk.
+It was incomplete for the decision being made.
 
-For SMEs, the starting point does not have to be a new system or dashboard rebuild. It may be one report, one recurring manual check, or one disagreement between what the system records and what people see in practice.
+The work highlighted three useful tests for reporting confidence:
 
-**Key question:**  
-*Where does your system say one thing while the people doing the work see something else — and how do you decide which difference matters?*
+### Traceability
 
----
+Can the headline be followed back to the transactions and rules that created it?
 
-## Repository Structure
+### Context
 
-```text
-straightline-insights-library/
-│
-├── README.md
-│
-├── 2026-06-reporting-clarity-second-check/
-│   ├── README.md
-│   ├── StraightLine-Insight-Note-June-2026.pdf
-│   └── images/
-│       ├── order-fulfilment.png
-│       ├── inventory-confidence.png
-│       ├── erp-warehouse-reality.png
-│       └── improved-inventory-management.png
-│
-└── assets/
-    └── straightline-logo.png
-```
+Can the reader see whether the issue is repeated, concentrated or exceptional?
 
-This structure may expand as future Monthly Insight Notes are added.
+### Actionability
+
+Does the report show what needs investigating or changing next?
+
+For SMEs, the practical starting point is not necessarily a dashboard rebuild.
+
+It may be one report, one business question and one recurring manual check.
+
+**Key question**
+
+> Which report in your business looks reasonable at headline level, but still sends people somewhere else before they are willing to act?
 
 ---
 
-## How to Use This Repository
+## September 2026
 
-For business readers:
+### When the system says one thing and the operation says another
 
-* start with the Monthly Insight PDF;
-* use the related proof assets to see how the thinking was developed;
-* follow the website link for the published article version.
+[**Read the September 2026 Insight Note →**](https://github.com/ingeborgbevers-blip/StraightLine-insights-library/blob/2026-09-reporting-clarity-versions-of-reality-diverge/StraightLine%20Insight%20Note%20September%2026.pdf)
 
-For technical or analytical readers:
+September focused on the point where system data, reporting logic and operational reality stop fully agreeing.
 
-* review the linked GitHub/Kaggle case studies;
-* compare the business question with the analysis approach;
-* look at how reporting outputs were shaped around decision support rather than dashboard volume.
+The month brought together StraightLine posts and inventory / stock-variance work around:
 
-For referrers and advisors:
+- manual checks that reveal where reporting confidence begins to weaken;
+- spreadsheets and workarounds that compensate for missing context or exceptions;
+- stock differences where timing, process and physical reality need separating;
+- Finance and Operations using reasonable numbers that do not quite mean the same thing;
+- automation making reporting faster without resolving disagreement underneath it.
 
-* use the Monthly Insight Notes to understand the type of reporting problems StraightLine helps with;
-* look for situations where an SME has reports, spreadsheets, ERP outputs or dashboards, but still lacks confidence in the decision those reports should support.
+The inventory work showed why not every discrepancy should be treated in the same way.
+
+A useful distinction is:
+
+### Expected
+
+Differences that follow known timing or process behaviour.
+
+### Explainable
+
+Differences that can be traced to a clear cause.
+
+### Needs attention
+
+Exceptions that remain unexplained or carry operational risk.
+
+The useful question is therefore not simply:
+
+> Does the stock match?
+
+It is:
+
+> Which differences can we explain, and which ones need attention?
+
+For SMEs, the starting point does not have to be a new system or dashboard rebuild.
+
+It may be one report, one recurring manual check, or one disagreement between what the system records and what people see in practice.
+
+**Key question**
+
+> Where does your system say one thing while the people doing the work see something else — and how do you decide which difference matters?
 
 ---
 
-## StraightLine View
+## October 2026
 
-Good reporting does not replace operational judgement.
+### From the figure to the next action
 
-It gives that judgement somewhere visible to live.
+[**Read the October 2026 Insight Note →**](https://github.com/ingeborgbevers-blip/StraightLine-insights-library/blob/2026-10-reporting-clarity-from-the-figure-to-the-next-action/StraightLine%20Insight%20Note%20October%202026.pdf)
 
-A dashboard can show more data. Decision support shows what matters next.
+October followed September’s question — where does the difference begin? — into the next step:
 
-Sometimes the first sign of a reporting problem is not a missing report. It is the spreadsheet people keep open beside it.
+> Once a report reveals something worth questioning, can the team work out what to do next?
+
+The note connects reporting, working practices and staff understanding through stock-count timing, shared KPI definitions, recurring corrections and practical training.
+
+It draws together two illustrative case studies using synthetic datasets:
+
+- **Outstanding orders and changing delivery promises:** outstanding quantities, promise extensions and gaps in recorded activity identify lines worth reviewing. Change histories explain earlier updates, while further checks establish where supporting information is held, who owns the next action and when review is due.
+- **Recurring month-end expense-report corrections:** 55 adjustments and 17.6 hours of recorded preparation time across April–September 2026. The net increase of £41,280, approximately 1.3% of initial expenses, conceals different causes: invoice timing, report duplication, an omitted account, department coding and authorised utility estimates.
+
+The distinction matters: a recorded reason may explain a position without making the next action clear, and recurring adjustments can include both necessary controls and causes worth correcting.
+
+The case studies propose targeted changes; they do not demonstrate implemented improvements or quantified achievable savings.
+
+The practical check is to follow one recurring exception through four questions:
+
+1. What drew your attention?
+2. Where do you check the explanation?
+3. Who owns the next action, and when should progress be reviewed?
+4. How will you know it is resolved?
+
+For SMEs, the starting point can be one report, one recurring problem and one question the team cannot yet answer confidently. Trace the evidence, involve the people doing the work, agree a response and check the next reporting cycle.
+
+**Key question**
+
+> When your report flags an exception, can the next person see what to check, who owns it and what happens next?
 
 ---
 
-## Contact
+## The thread through the library
 
-StraightLine Data & Training
-Website: add website link
-LinkedIn: add LinkedIn profile or company page link
-GitHub: add GitHub profile link
-Kaggle: add Kaggle profile link
+The monthly notes build on each other.
 
-For SMEs dealing with ERP, MRP, inventory, fulfilment, Excel workarounds or reporting uncertainty, a focused reporting clarity review can help identify where confidence is being lost and what needs to be clarified first.
+**June** asked what people still check before trusting a report.
+
+**July** looked at how apparently sound figures can carry different meanings depending on definition, timing and purpose.
+
+**August** moved below the headline to ask whether the detail underneath changes the decision.
+
+**September** looked at what happens when system logic, reporting logic and operational reality begin to diverge.
+
+**October** connected the figure to the next action: traceable evidence, clear ownership, practical working practices and staff understanding.
+
+The common thread is reporting confidence.
+
+Not simply:
+
+> Is the number correct?
+
+But:
+
+> Can we explain it, understand its context and use it confidently to make a decision?
+
+---
+
+## What the Insight Notes explore
+
+The library follows recurring StraightLine themes including:
+
+- reporting confidence;
+- ERP and operational data;
+- stock and inventory;
+- Finance and Operations reconciliation;
+- exceptions and manual workarounds;
+- dashboards and decision support;
+- training, adoption and user confidence.
+
+The notes are deliberately practical.
+
+They start with something recognisable — a report, discrepancy, workaround, reconciliation or decision — and work backwards to understand what is actually happening underneath.
+
+---
+
+## About StraightLine Data & Training
+
+StraightLine Data & Training helps SMEs bring clarity to data, reporting, ERP systems and operational decision-making.
+
+That may involve:
+
+- reviewing reports people still check manually;
+- tracing headline values back to transactions;
+- investigating stock and operational variances;
+- clarifying reporting definitions;
+- identifying timing and process differences;
+- reviewing spreadsheets and workarounds;
+- making exceptions easier to see;
+- improving existing reporting before deciding whether a wider rebuild is needed.
+
+The starting point can be small:
+
+**one report, one business question and one place where confidence begins to weaken.**
+
+---
+
+**StraightLine Data & Training**  
+*Bring clarity in data and development.*
